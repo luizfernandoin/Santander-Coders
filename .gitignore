@@ -1,0 +1,15 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de build
+/build/
+
+# Arquivos de dependências
+/lib/
+
+# Arquivos de configuração IDE
+/.idea/
+/.vscode/
+
+# Logs
+*.log
