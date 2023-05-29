@@ -1,3 +1,5 @@
+package introduçãoJAVA;
+
 public class ForLoopExample {
     public static void main(String[] args) {
         //Vamos fazer uma pequena calculadora de multiplicação para fixar.
